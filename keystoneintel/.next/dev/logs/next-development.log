@@ -1,0 +1,1 @@
+[00:04:03.538] Server  WARN    ⚠ "Failed to reload dynamic routes:" Error: ENOENT: no such file or directory, open '/home/user/claude-code/keystoneintel/.next/dev/types/validator.ts'
