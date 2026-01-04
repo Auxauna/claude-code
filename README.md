@@ -1,1 +1,3 @@
-# claude-code
+# New Project
+
+A fresh start.
