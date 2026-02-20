@@ -142,7 +142,7 @@ This is the single most important positioning axis. Every competitor is a self-s
 
 **The hiring analogy (pricing page):**
 > A full-time analyst costs $85K+. A fund admin firm charges $5K/month minimum.
-> Keystone gives you both — powered by AI, reviewed by experts — starting at a fraction of the cost.
+> Keystone builds your custom back-office for $10-15K and runs it for less than $2,500/month.
 
 **LP-facing quality signal:**
 > The kind of reporting your LPs expect from a $500M fund.
@@ -196,17 +196,22 @@ The visual quality itself is the trust signal. When a GP forwards a Keystone-pro
 
 ## 6. Service Packaging
 
-### The Ascension Model
+### The Model: Build + Operate + Retain
 
-Following the @mike_revenue framework — low-ticket entry → DWY (done-with-you) → DFY (done-for-you):
+The packaging follows a "custom build → managed service → retainer" structure. The build fee makes the sale tangible (syndicators are buying a deliverable, not a subscription). The managed service creates recurring revenue. Keystone retains ownership of the infrastructure — clients get a white-labeled portal and outputs, not raw code.
+
+**Why this structure:**
+- **$10-15K upfront is easy to justify.** It's less than a PPM, less than a single raise consultant, and they're getting a tangible system.
+- **Managed service, not code handover.** The community research tells us this ICP cannot maintain technology. They can barely maintain Excel. Handing over agent code would become a liability, not an asset.
+- **Keystone keeps the infrastructure.** This preserves the data flywheel (every client engagement makes the platform smarter), prevents support scope creep, and builds compounding value.
 
 ```
 Free content / community
   (BiggerPockets, GoBundance, Left Field Investors, LinkedIn)
-    → Template library / resources ($0 - lead gen)
-        → Essentials tier ($1,500-$2,500/mo - DWY)
-            → Professional tier ($4,000-$6,000/mo - DFY)
-                → Enterprise tier ($8,000-$12,000/mo - Full partner)
+    → Template library / resources ($0 — lead gen)
+        → Keystone Build ($10-15K — custom agent build, client-specific config)
+            → Keystone Operate ($1,500-$2,500/mo — hosted, maintained, monitored)
+                → Keystone Full-Service ($5,000-$10,000/mo — Build + Operate + human QA on every output)
 ```
 
 ### Tier Structure
@@ -223,71 +228,94 @@ Free content / community
 
 ---
 
-#### Tier 1: Essentials — $1,500-$2,500/month
-*"The back-office starter kit."*
+#### Keystone Build — $10,000-$15,000 one-time
+*"Your custom back-office, built and configured for your firm."*
 
 **What they get:**
-- Monthly investor report (1 deal, narrative + financials + charts, branded PDF)
-- Quarterly LP update email draft
-- Distribution summary documents (per-investor statements)
-- Access to report template library
-- 1 revision round per deliverable
+- Custom AI agent build tailored to their deal structure (multifamily, industrial, development, etc.)
+- Client-specific configuration (branding, LP names, deal terms, reporting preferences)
+- White-labeled portal setup — their LPs see their brand, not ours
+- Onboarding: data ingestion from existing spreadsheets, prior reports, and cap tables
+- Training session (1-2 hours) on how deliverables work and how to request changes
+- First month's deliverables included (investor report, distribution summary, LP portal access)
 
-**Ideal for:** First-time syndicator with 1-2 active deals, <30 LPs, wants to look institutional from day one.
+**What they don't get:**
+- Raw code or agent codebase. Keystone hosts and operates the infrastructure.
+- This is critical: they own the outputs, we own the system. Like hiring a fractional CFO — you get the work product, not the person's brain.
+
+**Ideal for:** Any syndicator with 1+ active deals who wants to professionalize their operations immediately.
+
+**Why $10-15K works for this ICP:**
+- PPM costs: $5K-$50K. This is cheaper than legal docs.
+- Raise consultants: $25-40K. This is 60% cheaper.
+- The community research shows syndicators routinely spend $20-50K on startup costs. $10-15K for an operational system is an easy yes.
 
 **Unit economics:**
-- AI production time: ~2-3 hours/month (mostly QA)
-- API cost: ~$10-$30/month
-- Gross margin: ~85-90%
+- Build time: ~20-30 hours (drops to ~12-15 hours after client #5 as templates compound)
+- Cost: ~$1,500-$2,500 (labor + AI/API costs)
+- **Gross margin: ~80-85%**
 
 ---
 
-#### Tier 2: Professional — $4,000-$6,000/month
-*"Your full-time back-office, fractional cost."*
+#### Keystone Operate — $1,500-$2,500/month
+*"We run it. You review it. Your LPs love it."*
 
 **What they get:**
-- Everything in Essentials
-- Up to 3 active deals covered
+- Keystone hosts, maintains, and monitors the agent infrastructure
+- Monthly investor report production (narrative + financials + charts, branded PDF)
+- Quarterly LP update email drafts
+- Distribution summary documents (per-investor statements)
+- Portal maintenance and LP access management
+- Agent updates as LLM models improve (automatic, no client action needed)
+- 1 revision round per deliverable
+- Email support, 24-48hr response
+
+**What this covers behind the scenes:**
+- API cost management and model upgrades
+- Template updates and improvements
+- Bug fixes and infrastructure maintenance
+- Data pipeline monitoring
+
+**Ideal for:** Syndicator with 1-3 active deals, <50 LPs, who wants institutional outputs without thinking about the technology.
+
+**Unit economics:**
+- AI production time: ~3-5 hours/month
+- API cost: ~$20-$50/month
+- Client management: ~1-2 hours/month
+- **Total COGS: ~$300-$500/month**
+- **Gross margin: ~80-85%**
+
+---
+
+#### Keystone Full-Service — $5,000-$10,000/month
+*"Your institutional operations layer. Fully managed."*
+
+**What they get:**
+- Everything in Operate
+- Up to 5 active deals covered (unlimited at $10K tier)
+- Human expert review on every deliverable before it reaches LPs
 - Monthly budget vs. actuals analysis
 - Quarterly investor call prep (talking points, script, Q&A prep)
 - Distribution waterfall output summaries
 - LP query response drafts (within 24hr turnaround)
-- 2 revision rounds per deliverable
-- Dedicated account contact
-
-**Ideal for:** Scaling syndicator with 2-5 active deals, 30-75 LPs, growing LP base and repeat investors.
-
-**Unit economics:**
-- AI production time: ~6-10 hours/month (QA + client management)
-- API cost: ~$30-$80/month
-- Gross margin: ~80-85%
-
----
-
-#### Tier 3: Enterprise — $8,000-$12,000/month
-*"The institutional operations layer."*
-
-**What they get:**
-- Everything in Professional
-- Unlimited active deals
-- Full raise kit production (pitch deck, executive summary, data room buildout) — 2 per year included
+- Raise kit production when needed (pitch deck, exec summary, data room) — 2 per year included
 - Financial model outputs and sensitivity summaries
-- Custom branded LP portal (white-label)
-- Weekly IR cadence support
+- Dedicated account contact
 - Priority turnaround (same-day for standard deliverables)
-- Quarterly strategy call on LP communications
 - Unlimited revisions
 
-**Ideal for:** Established syndicator with 5+ deals, 75+ LPs, raising multiple times per year, wants to present like a $500M fund.
+**Ideal for:** Scaling syndicator with 3+ active deals, 50+ LPs, raising multiple times per year, who wants to present like a $500M fund without hiring a $500M fund's back office.
 
 **Unit economics:**
-- AI production time: ~15-25 hours/month (QA + strategy + client management)
-- API cost: ~$80-$200/month
-- Gross margin: ~75-80%
+- AI production + human QA: ~10-20 hours/month
+- API cost: ~$50-$150/month
+- Client management: ~4-6 hours/month
+- **Total COGS: ~$1,000-$2,000/month**
+- **Gross margin: ~80-85%**
 
 ---
 
-#### Project Work: Raise Kit — $8,000-$15,000 one-time
+#### Project Add-On: Raise Kit — $8,000-$15,000 one-time
 *"Everything you need to go raise capital."*
 
 **What they get:**
@@ -299,10 +327,25 @@ Free content / community
 - Subscription agreement template review/formatting
 - 2 revision rounds
 
-**Ideal for:** Any syndicator preparing for a capital raise. Can be sold standalone or as an add-on to any tier.
+**Ideal for:** Any syndicator preparing for a capital raise. Sold standalone or as an add-on to any tier (included in Full-Service).
 
 **Current market cost:** $25,000-$40,000 (lawyers + consultants + designers)
 **Keystone cost:** $8,000-$15,000 (60-70% savings)
+
+---
+
+### Revenue Model: Why Build + Operate Beats Pure SaaS or Pure Services
+
+| Metric | Build + Operate (Keystone) | Pure SaaS (InvestNext) | Pure Services (Fund Admin) |
+|---|---|---|---|
+| Sales cycle | Short — tangible $10-15K deliverable | Medium — monthly commitment scary | Long — enterprise sales process |
+| Year 1 per client | $28-45K (build + 12mo operate) | $6-12K | $60-120K |
+| Year 2 per client | $18-30K (operate only) | $6-12K | $60-120K |
+| Client effort | Low — review outputs | High — learn platform, input data | Low — but expensive |
+| Switching cost | High — portal, templates, LP familiarity | Low — export data, switch tools | Medium — relationships |
+| Scalability | High — 70% shared infra, 30% config | Very high | Low — labor-intensive |
+| Margin | 80-85% | 70-80% | 40-50% |
+| Moat | Data + templates + trust | Features (easily copied) | Relationships (don't scale) |
 
 ---
 
@@ -332,30 +375,49 @@ This is the gap. Emerging syndicators are spending $25-40K per raise on lawyers 
 
 ### Unit Economics
 
-**Per-client economics (Professional tier, $5,000/month):**
+**Per-client economics (Build + Operate model, blended):**
 
-| Item | Monthly | Annual |
+| Item | Year 1 | Year 2+ |
 |---|---|---|
-| Revenue | $5,000 | $60,000 |
-| AI/API costs | ~$50 | ~$600 |
-| Human QA time (8 hrs × $50/hr) | ~$400 | ~$4,800 |
-| Client management (2 hrs × $75/hr) | ~$150 | ~$1,800 |
-| **Total COGS** | **~$600** | **~$7,200** |
-| **Gross profit** | **$4,400** | **$52,800** |
-| **Gross margin** | **88%** | |
+| Build fee (one-time) | $12,500 | — |
+| Operate revenue ($2,000/mo) | $24,000 | $24,000 |
+| **Total client revenue** | **$36,500** | **$24,000** |
+| Build COGS (~$2,000) | $2,000 | — |
+| Operate COGS (~$400/mo) | $4,800 | $4,800 |
+| **Total COGS** | **$6,800** | **$4,800** |
+| **Gross profit** | **$29,700** | **$19,200** |
+| **Gross margin** | **81%** | **80%** |
 
-**Company-level economics:**
+**Full-Service client economics ($7,500/mo avg):**
+
+| Item | Year 1 | Year 2+ |
+|---|---|---|
+| Build fee (one-time) | $15,000 | — |
+| Full-Service revenue ($7,500/mo) | $90,000 | $90,000 |
+| **Total client revenue** | **$105,000** | **$90,000** |
+| Build COGS | $2,500 | — |
+| Full-Service COGS (~$1,500/mo) | $18,000 | $18,000 |
+| **Total COGS** | **$20,500** | **$18,000** |
+| **Gross profit** | **$84,500** | **$72,000** |
+| **Gross margin** | **80%** | **80%** |
+
+**Company-level economics (Build + Operate model):**
 
 | Scenario | Year 1 | Year 2 | Year 3 |
 |---|---|---|---|
-| Retainer clients | 10-15 | 30-50 | 80-150 |
-| Avg MRR per client | $3,500 | $4,000 | $4,500 |
-| Project revenue (raise kits) | $80K | $200K | $500K |
-| **Annual recurring revenue** | $420K-$630K | $1.4M-$2.4M | $4.3M-$8.1M |
-| **Total revenue (incl. projects)** | $500K-$710K | $1.6M-$2.6M | $4.8M-$8.6M |
+| New builds | 10-15 | 20-35 | 40-60 |
+| Cumulative managed clients | 10-15 | 30-50 | 70-110 |
+| Avg monthly per client (blended) | $2,500 | $3,000 | $3,500 |
+| Build revenue | $125-188K | $250-438K | $500-750K |
+| Managed service MRR | $25-38K | $90-150K | $245-385K |
+| Project revenue (raise kits) | $60K | $150K | $400K |
+| **Annual recurring revenue** | $300-450K | $1.1-$1.8M | $2.9-$4.6M |
+| **Total revenue (incl. builds + projects)** | $485-698K | $1.5-$2.4M | $3.8-$5.8M |
 | Team size | 2-3 | 4-6 | 8-12 |
-| **Gross margin** | ~85% | ~82% | ~80% |
-| **EBITDA margin** | ~60% | ~55% | ~50% |
+| **Gross margin** | ~80% | ~80% | ~80% |
+| **EBITDA margin** | ~55% | ~50% | ~45% |
+
+**Key advantage of Build + Operate:** Front-loaded cash. The build fee funds operations before recurring revenue scales. At 10 builds in Year 1 that's $125K in cash within the first few months, covering runway while the MRR base compounds.
 
 ### Comparable Companies
 
@@ -365,7 +427,7 @@ This is the gap. Emerging syndicators are spending $25-40K per raise on lawyers 
 | Invisible Technologies | AI services | $134M | 2,000+ | ~$67K | $2B+ |
 | Juniper Square | Fund admin | $139.8M | ~500 | ~$280K | $1.1B |
 | Pilot | Bookkeeping | ~$100M+ | ~400 | ~$250K | $1.2B |
-| **Keystone (Year 3 target)** | **RE syndicator ops** | **$5-8M** | **8-12** | **$500K-$700K** | **—** |
+| **Keystone (Year 3 target)** | **RE syndicator ops** | **$3.8-5.8M** | **8-12** | **$400K-$500K** | **—** |
 
 The revenue-per-employee metric is where this model shines. AI-native agencies are achieving $500K-$1M+ per employee — 2-3x what traditional services firms achieve.
 
@@ -395,9 +457,9 @@ The revenue-per-employee metric is where this model shines. AI-native agencies a
 3. **LinkedIn** — Targeted outreach to syndicators in the $10M-$50M AUM range; content showing "before/after" report quality
 4. **Referral partners** — Fund formation attorneys, CRE CPAs, and commercial lenders who serve this ICP daily
 
-**Offer:** Discounted "founding client" pricing ($2,500/month for Professional tier) in exchange for case study rights and testimonials.
+**Offer:** "Founding build" pricing — $7,500 build (50% discount) + $1,500/mo Operate tier, in exchange for case study rights and testimonials. Total Year 1 cost to client: $25,500 — less than a single raise consultant.
 
-**Deliverable focus:** Start with investor reports only. Nail one thing before expanding. The monthly report is the highest-frequency, highest-pain deliverable — it creates a recurring touchpoint and proves quality fast.
+**Deliverable focus:** Start with investor reporting agents only. Nail one thing before expanding. The monthly report is the highest-frequency, highest-pain deliverable — the build creates a tangible "wow" moment, and the managed service creates a recurring touchpoint that proves quality fast.
 
 ### Phase 2: Scale to 50 Clients (Months 7-18)
 
@@ -405,28 +467,31 @@ The revenue-per-employee metric is where this model shines. AI-native agencies a
 
 **What changes:**
 - Hire first operations person (deliverable QA + client management)
-- Launch raise kit as a product (project-based pricing)
-- Add FP&A / budget vs. actuals to service menu
-- Begin building branded LP portal offering
+- Launch raise kit as a project add-on ($8-15K)
+- Add FP&A / budget vs. actuals agents to the build catalog
+- Branded LP portal becomes standard in all builds
 - Create content engine: monthly "State of Syndication Operations" report, podcast appearances, BiggerPockets/GoBundance event sponsorships
+- Build process drops to ~12-15 hours per client as templates compound
 
-**Pricing shift:** Move from founding client pricing to standard tiers. Introduce Enterprise tier for highest-value clients.
+**Pricing shift:** Move from founding build pricing to standard $10-15K builds. Introduce Full-Service tier ($5-10K/mo) for highest-value clients who want human review on every output.
 
 ### Phase 3: Productize (Months 18-36)
 
 **Goal:** Build the SaaS layer underneath the services.
 
 **What this looks like:**
-- Template library becomes a self-serve product (Tier 0 / low-ticket SaaS)
-- Client portal where GPs upload data and receive deliverables (workflow automation)
-- LP portal offering becomes a standalone product
-- Internal AI workflows become reproducible and trainable (new team members ramp in days, not months)
+- Template library becomes a self-serve product (Tier 0 / low-ticket SaaS for lead gen)
+- Build process becomes semi-automated — new client onboarding takes days, not weeks
+- LP portal offering becomes a standalone product (SaaS revenue layer)
+- Agent orchestration platform emerges: shared infrastructure layer + per-client config layer
+- Internal AI workflows become reproducible (new team members ramp in days, not months)
 
-**This is the Mike Davidson ascension model fully realized:**
-- Low-ticket SaaS generates MRR and leads
-- DWY and DFY tiers generate high-margin revenue
-- Client data accumulates, templates compound, switching costs lock in retention
-- Valuation shifts from services multiple (2-4x revenue) to SaaS multiple (8-15x ARR)
+**The flywheel fully realized:**
+- Build fees fund development of better shared infrastructure
+- Better infrastructure makes builds faster and cheaper (margins expand)
+- Managed service base compounds (70-110 clients = $2.9-4.6M ARR)
+- Template library and agent catalog become productizable SaaS
+- Valuation shifts from services multiple (2-4x revenue) to platform multiple (8-15x ARR)
 
 ---
 
@@ -553,12 +618,14 @@ This section contains real language from BiggerPockets, PassivePockets, Left Fie
 
 ---
 
-## 11. Summary
+## 12. Summary
 
-**Keystone fills a clear gap**: 3,000-6,000 emerging syndicators spending $100K-$200K/year on services that can be delivered at 85% margins by a 2-3 person AI-native team. No one is doing this. The platforms are self-serve. The service firms are expensive. Keystone is the partner in the middle.
+**Keystone fills a clear gap**: 3,000-6,000 emerging syndicators spending $100K-$200K/year on services that can be delivered at 80% margins by a 2-3 person AI-native team. No one is doing this. The platforms are self-serve. The service firms are expensive. Keystone is the partner in the middle.
 
-**The math works**: 10-15 clients at $3,500/month average = $500K-$700K Year 1 revenue at 85% gross margins. Scale to 100+ clients by Year 3 for $5M-$8M revenue. Revenue per employee of $500K+ from day one.
+**The model is right**: Build fee ($10-15K) + managed service ($1.5-10K/mo) gives clients a tangible deliverable they can justify, while Keystone retains the infrastructure that becomes the moat. No code handover. The ICP doesn't want to maintain agents — they want institutional outputs without thinking about technology.
 
-**The timing is right**: Claude's Office capabilities are 4 months old. The syndication market is recovering. The Anthropic data shows finance and document creation are 95%+ underserved by AI agents. First movers in this vertical will build the template library and client relationships that become the moat.
+**The math works**: 10-15 builds in Year 1 plus growing MRR = $485K-$700K total revenue at 80% gross margins. Build fees front-load cash to fund operations. Scale to 70-110 managed clients by Year 3 for $3.8M-$5.8M revenue.
+
+**The timing is right**: Claude's Office capabilities shipped late 2025. The syndication market is recovering. The Anthropic data shows finance and document creation are 95%+ underserved by AI agents. First movers in this vertical will build the template library and client relationships that become the moat.
 
 **The brand is clear**: *You close deals. We handle the rest.*
