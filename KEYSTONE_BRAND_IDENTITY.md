@@ -451,7 +451,96 @@ More clients → better templates → faster delivery → higher margins → mor
 
 ---
 
-## 10. Key Risks & Mitigations
+## 10. Voice of the Customer — What the ICP Actually Says
+
+This section contains real language from BiggerPockets, PassivePockets, Left Field Investors, Bogleheads, White Coat Investor, and syndication industry sources. Use these exact phrases in marketing copy, ads, and content.
+
+### Pain Language (Use in Problem-Aware Messaging)
+
+**On reporting:**
+- *"Creating investor reports used to take hours"* — Agora customer
+- *"After spending hours every month completing my accounting and investor reporting, outsourcing was the best decision I've ever made"* — REA Tax client
+- *"The old 'update all the spreadsheets' approach isn't going to scale"* — Investor Deal Room
+- *"Investor update requests began taking more and more of their time, even though they were usually simple requests"* — Investor Deal Room
+- *"By the time it gets to one or two requests per day, they really start piling up"*
+
+**On raise prep costs:**
+- *"You will need $20k in startup costs plus you should invest at least $50k in your syndication"* — Chris Seveney, BiggerPockets
+- *"Wanting to avoid having to fork over $10-15k for a PPM"* — BiggerPockets user
+- *"Spent about $50,000 for their SEC lawyers to setup their syndication"* — Aaron Froggatt, BiggerPockets
+- Big law: *"at least $35,000 to draft a PPM"*; smaller firms: *"$5,000-$15,000"*
+- Budget *"$30K-$50K for legal costs"* minimum (GowerCrowd)
+
+**On scaling:**
+- *"Hard as heck to execute well at this particular game"* — Ivan Barratt, BiggerPockets
+- *"The syndicator can't be profitable at small scale because business costs will soak up earnings faster than you can say 'syndication'"* — BiggerPockets
+- *"You need to spend just as much time finding investors as you do finding deals"* — Charles Seaman
+- *"Sponsors can't focus on the bigger picture when their inbox is filling up with the little stuff"* — Investor Deal Room
+
+**On what LPs hate (use as fear-of-loss messaging):**
+- *"They have now stopped responding and corresponding to emails"* — BiggerPockets LP
+- *"How the heck does a sponsor get foreclosed on and not notify their investors"* — BiggerPockets LP
+- *"There is nothing worse than being in the dark and not knowing where your investment is"* — Bogleheads
+- *"If they aren't going to reply to an email in a timely fashion before I have wired them $100,000, there is no chance they are going to do that after they have my money"* — Jim Pfeifer, Left Field Investors founder
+- *"These are long-term illiquid deals that are completely out of your control. The only thing you have after you send that wire is monthly or quarterly reports"* — Jim Pfeifer
+
+### Aspiration Language (Use in Solution-Aware Messaging)
+
+**The dream:**
+- *"Institutional-grade"* — the gold standard phrase in this community
+- *"Scale your back office without a huge team"*
+- *"Reclaim valuable time"* / *"10X faster back office work"*
+- *"Focus on deals, not admin"*
+- *"Attract family offices"*
+- *"Come back for round two"* (LP re-investment)
+- *"Single source of truth"*
+
+**Trust signals LPs look for:**
+- *"Send me a copy of the last statement you sent your investors. If they can't send you a statement, that should be a red flag."* — Left Field Investors vetting tip
+- *"Projects presented with comprehensive and polished materials are 60% more likely to gain stakeholder approval"*
+- PassivePockets recommends *"asking for samples of recent quarterly reports for other active deals so you can see what you can expect"*
+- *"One of the quickest ways to build or lose credibility is through how you communicate with your investors"* — The Real Estate CPA
+
+### What "Institutional-Grade" Actually Means to This ICP
+
+1. **Consistent cadence** — Reports on a predictable schedule, never missed
+2. **Performance vs. plan** — NOI vs. pro forma, actual vs. projected, clear variance explanations
+3. **Professional presentation** — Branded, polished, charts and visuals, not a text email
+4. **Full transparency** — Honest during tough times, no sugarcoating or silence
+5. **Accessible portal** — 24/7 document access, no email back-and-forth
+6. **Timely K-1 delivery** — Before March 15 deadline, no exceptions
+7. **Clear capital account statements** — Distribution notices, NAV, capital calls per investor
+8. **Multi-deal visibility** — All positions across deals in one place
+9. **Responsive communication** — Multiple channels, prompt replies
+10. **Full-cycle performance data** — Verifiable returns, not cherry-picked
+
+### Messaging Hooks (Ready to Use)
+
+| Hook | Where to Use |
+|---|---|
+| *"Stop looking like a startup. Start looking like an institution."* | Homepage, LinkedIn ads |
+| *"Your investors judge you by your reports, not just your returns."* | Content marketing, email |
+| *"The back office that ate your deal flow."* | BiggerPockets posts, podcast |
+| *"From spreadsheets to a platform. From operator to institution."* | Landing page, pitch deck |
+| *"Your LPs talk. Make sure they're saying the right things."* | Community content, social |
+| *"Institutional-grade reporting without the institutional-size team."* | Tagline variant, ads |
+| *"Done-for-you means done right."* | Service page, pricing page |
+
+### Key Community Channels for Distribution
+
+| Channel | Why It Matters |
+|---|---|
+| **BiggerPockets** (forums + podcast) | Largest RE investing community. Syndication subforum is active. Word-of-mouth engine. |
+| **GoBundance** | High-net-worth mastermind. Members are active syndicators in the $15M-$100M range. |
+| **Left Field Investors** | LP-focused community run by Jim Pfeifer. LPs here actively vet sponsors — if they recommend you, their members invest with your clients. |
+| **PassivePockets** | LP vetting and review platform. Sponsors with good reporting get highlighted. |
+| **White Coat Investor** | Physician investors — one of the largest LP pools for syndications. They share notes on sponsors. |
+| **LinkedIn** | Syndicators use LinkedIn heavily for credibility signaling and LP nurturing. Content about reporting quality would perform well. |
+| **Podcasts** | Best Ever CRE, Passive Real Estate Investing, Real Estate Syndication Show — all have syndicator audiences hungry for operational content. |
+
+---
+
+## 11. Key Risks & Mitigations
 
 | Risk | Severity | Mitigation |
 |---|---|---|
