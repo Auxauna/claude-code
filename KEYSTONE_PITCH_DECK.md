@@ -44,15 +44,30 @@ Your reporting quality is the **#1 signal LPs use to evaluate whether to re-inve
 | Mid-market ($75M-$500M) | InvestNext, Agora, SyndicationPro | Advisory + done-for-you |
 | **Emerging ($5M-$75M AUM)** | **Nobody.** | **Everything.** |
 
-**The gap is structural:**
-- **Juniper Square** — Enterprise pricing. Minimum $50K+ AUM threshold. "Contact sales." Your 25-LP deal doesn't qualify.
-- **InvestNext** — Self-serve SaaS. You still have to learn the platform, input every data point, configure reports, manage the portal yourself. You're buying *more work*, not less.
-- **SyndicationPro** — Same story. Tools, not outcomes. You're still the one pulling the lever.
-- **Fund admin firms** — $3,000-$8,000/month minimums. 6-month onboarding. Enterprise contracts. Built for funds with $100M+ AUM.
-- **Your CPA** — Does your K-1s. Does not produce LP reports. Does not build pitch decks. Does not manage your portal.
-- **Freelancers** — No syndication expertise. No financial modeling knowledge. No understanding of waterfall structures or preferred returns.
+**The gap is structural — and we have the receipts:**
 
-**You're stuck between tools you don't have time to learn and services you can't afford.**
+| Platform | Actual Price | What You Get | What You Still Do Yourself |
+|---|---|---|---|
+| **Juniper Square** | $18,000+/year (portal add-ons extra) | Portal, CRM, distribution tools | Write every report, build every model, create every deck |
+| **InvestNext** | $99-$499/month | Portal, fundraising automation | Write reports, input all data, configure everything |
+| **Agora** | $749/month | Portal, waterfall automation, templates | Write narratives, pull data, compose updates |
+| **SyndicationPro** | ~$400-600/month (non-transparent) | Portal, CRM, co-sponsor tools | Write reports, manage content, build materials |
+| **AppFolio IM** | $650/month | Portal, CRM, asset tracking | Write reports, designed for "decades of experience" firms |
+| **Fund admin firms** | $40-50K/year minimums | NAV calc, distribution processing, K-1s | They don't write LP reports either |
+
+*Sources: Capterra, G2, company pricing pages, CRE Daily reviews (2025-2026)*
+
+**What every single one of these platforms does:** Automate the *distribution* of reports — portals, ACH payments, document storage.
+
+**What none of them do:** Actually *write* the report. The narrative. The charts. The variance analysis. The market commentary. The forward-looking guidance. The per-investor capital account statement with waterfall detail.
+
+> *"Very expensive for what it is, especially when we are just managing funds and not raising as much capital."*
+> — InvestNext Capterra review
+
+> *"CRM needs work in order to be serviceable on a daily basis."*
+> — Juniper Square G2 review
+
+**You're paying $6,000-$18,000/year for tools that automate the last mile — and you're still doing 80% of the work.**
 
 ---
 
@@ -240,12 +255,12 @@ We're not selling software. We're selling outcomes. Here's what each tier includ
 | Investor reporting (your time) | 8-12 hrs/mo × $200/hr = **$1,600-$2,400** | $0 (we do it) | $0 |
 | Distribution calculations | 4-6 hrs/quarter × $200/hr = **$200-$300/mo** | $0 | $0 |
 | LP email responses | 2-4 hrs/mo × $200/hr = **$400-$800** | $0 | $0 |
-| Fund admin / bookkeeper portion | **$500-$2,000/mo** | Still need for accounting | Still need |
-| Raise prep (amortized) | **$25-40K ÷ 12 = $2,000-$3,300/mo** | Still separate | $0 (included in Enterprise) |
-| LP portal software | **$200-$500/mo** | $0 (included) | $0 (included) |
-| **Total current cost** | **$4,900-$9,300/month** | | |
+| Portal software (InvestNext/Agora) | **$500-$750/mo** | $0 (included) | $0 (included) |
+| Fund admin / bookkeeper portion | **$3,300-$4,200/mo** ($40-50K/yr) | Still need for accounting | Still need |
+| Raise prep (amortized) | **$15-40K per deal ÷ 12 = $1,250-$3,300/mo** | Still separate ($10K add-on) | $0 (included in Enterprise) |
+| **Total current cost** | **$7,250-$11,750/month** | | |
 | **Keystone cost** | | **$2,500/month** | **$5,000/month** |
-| **Net savings** | | **$2,400-$6,800/month** | **Same cost, 10x quality** |
+| **What Keystone replaces** | | **$3,700-$7,800/mo of your time + tools** | **$3,700-$7,800/mo + raise materials** |
 
 **But the real ROI isn't cost savings. It's what happens to your next raise.**
 
@@ -264,15 +279,20 @@ We're not selling software. We're selling outcomes. Here's what each tier includ
 
 | Dimension | SaaS Platforms | Fund Admin Firms | **Keystone** |
 |---|---|---|---|
-| **What you get** | Tools to do the work yourself | A team (expensive, slow) | **Finished deliverables** |
-| **Your effort** | High — learn, input, configure | Low — but $3-8K/mo minimum | **Low — review and approve** |
-| **Cost** | $200-$800/mo (but YOUR time is the real cost) | $3,000-$8,000/mo | **$2,500-$8,500/mo** |
-| **Quality** | Depends on your skill | Institutional | **Institutional** |
+| **What you get** | Portal + distribution tools | NAV calc, K-1 coordination | **Finished LP deliverables** |
+| **Your effort** | High — learn, input, configure, write | Low — but they don't write reports either | **Low — review and approve** |
+| **Annual cost** | $1,200-$18,000/yr (InvestNext to Juniper) | $40,000-$75,000/yr minimums | **$30,000-$102,000/yr** |
+| **Report writing** | You do it | Not included | **Done for you** |
+| **Raise materials** | Not included | Not included | **Included (Enterprise)** |
+| **Quality** | Depends on your skill | Financial only, no narrative | **Institutional — narrative + financial + design** |
 | **Onboarding** | Weeks of self-setup | 3-6 months | **1 week** |
-| **Syndication expertise** | Generic CRE platform | Varies | **Built by people who model waterfalls** |
-| **Scales with you** | You do more work | They charge more | **Same team, more deals** |
+| **Syndication expertise** | Generic CRE portal features | Accounting focus | **Built by people who model 5-tier waterfalls** |
 
-**We are not software. We are not a fund admin firm. We are the back-office partner that doesn't exist yet.**
+*Sources: InvestNext ($99-$499/mo), Agora ($749/mo), Juniper Square ($18K+/yr), fund admin ($40-50K/yr minimums per NAV Fund Services, Baseline Software research)*
+
+**The punchline:** You can pay $18K/year for Juniper Square AND still spend 8-12 hours/month writing reports yourself. Or you can pay Keystone $2,500/month and get the reports delivered, reviewed, and ready for your LPs.
+
+**Nobody else writes the report. We do. That's the entire difference.**
 
 ---
 
@@ -452,37 +472,90 @@ Comparable: Harvey AI = $195K/employee. Juniper Square = $280K/employee. Pilot =
 
 ---
 
-## Appendix B: Competitive Landscape Detail
+## Appendix B: Competitive Landscape Detail (Validated)
 
-### Why Every Alternative Fails for This ICP
+*All pricing verified via Capterra, G2, company websites, and CRE Daily reviews (2025-2026).*
 
-**InvestNext ($250-$800/month estimated)**
-- Self-serve portal and reporting tools
-- Client must input all data, configure all reports, manage all templates
-- No financial modeling. No narrative generation. No design.
-- The tool does 20% of the work. The syndicator still does 80%.
-- *"The old 'update all the spreadsheets' approach isn't going to scale"* — and InvestNext is just a nicer spreadsheet
+### Platform-by-Platform Breakdown
 
-**SyndicationPro ($199-$499/month estimated)**
-- Similar to InvestNext — portal + basic reporting tools
-- Heavy on transaction management, light on LP communications quality
-- No done-for-you option at any tier
-- Target customer is doing 1-2 deals; doesn't scale well to 5+
+**InvestNext — $99-$499/month**
+- Fundraising tier ($99-$299): Investor portal, CRM, fundraising automation, 3 user licenses
+- All-in-One ($499/mo billed annually): Adds distributions, investor reporting, unlimited users
+- 4.8/5 Capterra (20 reviews). 90%+ support tickets resolved within a day.
+- **Complaints:** *"Very expensive for what it is"* ... CRM is weak, no native HubSpot integration, no email open/read reporting, no delay-send
+- **Gap:** Does NOT write reports. Does NOT do financial modeling. Does NOT generate narratives from property data. It automates distribution of reports you create elsewhere.
 
-**Juniper Square (Enterprise — $1,000-$5,000+/month)**
-- Gold standard for fund admin + portal
-- Minimum AUM thresholds effectively exclude emerging syndicators
-- 3-6 month implementation timeline
-- Built for institutional LPs, not the $50K check from your dentist's GoBundance friend
+**SyndicationPro / SponsorCloud — ~$400-600/month (non-transparent)**
+- "Contact us" pricing — estimated from Covercy competitor analysis
+- Rebranded to SponsorCloud. Purpose-built "by syndicators, for syndicators"
+- Unique: Co-sponsor module, self-directed IRA integration with Equity Trust
+- Only 17 total reviews across G2 and Capterra (very small footprint)
+- **Complaints:** Missing CRM automation, Zapier-only integrations, non-transparent pricing
+- **Gap:** Portal/CRM/distribution tool. Does not generate reports, models, or raise materials.
 
-**Fund Admin Firms ($3,000-$8,000+/month)**
-- Full NAV calculation, distribution processing, K-1 coordination
-- Excellent for funds with $100M+ AUM
-- Way too expensive for a $15M deal
-- Long onboarding, enterprise contracts, slow to change
+**Juniper Square — $18,000+/year (excludes core modules)**
+- Starting tier ($18K+/yr) excludes investor portals, reporting modules, CRM integrations — all add-ons
+- Custom API development further inflates cost
+- 4.9/5 Capterra (61 reviews), 4.8/5 G2 — highest-rated platform
+- **Complaints:** *"Quite expensive"* ... steep learning curve, no phone support, no mobile app, quarterly statements not customizable enough, CRM *"needs work"*
+- **Why emerging syndicators can't use it:** At $18K+/year before add-ons, a $15M syndicator pays 0.12%+ of AUM just for software. Juniper Square doesn't even position for funds under $25M.
 
-**The Keystone Position:**
-All of these are either *tools you operate yourself* or *expensive services built for larger funds*. Keystone occupies the empty space: **done-for-you quality at a price point emerging syndicators can justify, with zero operational burden on the GP.**
+**Agora — $749/month ($9,000/year)**
+- 4.8/5 on Capterra and G2. Founded 2019, raised $34M Series B in 2024.
+- Strongest waterfall automation (multi-tier distributions, preferred returns, promote splits)
+- White-label portal, K-1 batch upload, 5,000+ integrations, multi-language
+- **Complaints:** Documents section needs improvement, eliminates prior features when adding new ones, steep learning curve, no API/webhooks
+- **Positioning:** Aggressively undercuts Juniper Square. Blog is essentially a comparison engine.
+
+**AppFolio Investment Management — $650/month**
+- Best for firms already on AppFolio Property Manager (integrated ecosystem)
+- Org Chart feature maps investor hierarchies across multi-tiered funds
+- **Limitation:** Designed for firms with *"decades of experience and dozens of active syndications."* Not positioned for emerging managers.
+
+**Fund Admin Firms — $40,000-$50,000/year minimums**
+- NAV Fund Services, Armanino, EisnerAmper, CSC, CLA
+- Pricing: 8-15 basis points of AUM, subject to minimums
+- A $15M fund at 10 bps = $15K... but you'll pay the $40-50K minimum anyway
+- Tax prep (Form 1065 + K-1s) often additional: $5,000-$20,000/year
+- **Critical:** Fund admin handles NAV, distributions, and K-1s. They do NOT write investor-facing narrative reports.
+
+**Other Notable:**
+- Cash Flow Portal: $99/month (Y Combinator-backed, fast setup)
+- Covercy: Free tier available, only platform with integrated banking + high-yield APY
+- CrowdStreet: Marketplace (sponsor fees 0.5-2.5% of invested capital), not an operations tool
+
+### The Confirmed Gap
+
+**What every competitor does:** Automate the *distribution* of reports (portals, ACH, document storage, e-signatures).
+
+**What NO competitor does:**
+1. Write investor report narratives from property/fund data
+2. Generate financial models from assumptions
+3. Create raise materials (pitch decks, exec summaries, data rooms)
+4. Produce sensitivity analysis as a deliverable
+5. Draft LP query responses
+6. Provide budget vs. actuals with narrative variance explanations
+
+**The market is crowded on the portal/CRM/distribution axis and has ZERO competition on the modeling/reporting/content generation axis.** That's exactly where Keystone sits.
+
+### Real Syndicator Annual Spend (Validated)
+
+For a $15M-$50M AUM syndicator with 2-3 deals/year:
+
+| Category | Annual Cost |
+|---|---|
+| Legal/Compliance (deal setup + ongoing) | $40,000-$80,000 |
+| Technology stack (portal, CRM) | $6,000-$18,000 |
+| Investor reporting (GP time or outsourced) | $10,000-$30,000 |
+| Fund admin / accounting | $15,000-$50,000 |
+| CPA / tax / K-1s | $10,000-$25,000 |
+| Marketing / raise materials | $15,000-$30,000 |
+| IR / communications (time or staff) | $20,000-$60,000 |
+| **Total** | **$116,000-$293,000/year** |
+
+*Sources: CRE.law, Financial Models Lab, ContractsCounsel, NAV Fund Services, Baseline Software*
+
+**Keystone replaces $45,000-$120,000 of this spend** (reporting + raise materials + IR/communications) at $30,000-$102,000/year — with institutional quality and zero GP time investment.
 
 ---
 
